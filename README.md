@@ -1,1 +1,3 @@
 # NETFLIX-Clone
+Greetings to Everyone!
+In this repository I have Created a Netflix Clone purely using HTML and CSS...
